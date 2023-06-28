@@ -1,0 +1,2 @@
+Public Url to GitHub repository (not private) : https://github.com/phat181999/cdond-c3-projectstarter
+Public URL for your S3 Bucket: http://udapeople-67118ee.s3-website-us-east-1.amazonaws.com/#/employees
